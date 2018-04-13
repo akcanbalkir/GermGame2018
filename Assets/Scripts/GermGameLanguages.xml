@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+
+<!--FROM THIS FILE YOU CAN MODIFY THE LANGUAGES PRESENTED IN GAME-->
+
+    <!--ENGLISH LANGUAGE-->
+    <language name="English"> 
+         <string name="title">Germ Game</string>
+         <string name="play_game">Play Chutes and Ladders</string>
+         <string name="options">Options</string>
+         <string name="how_to_play">How To Play</string>
+         <string name="instructions">
+         Players take turns rolling dice to see how many squares to move. 
+         To end the game a player must land exactly on the final square. 
+         A player cannot move if he or she rolls past the final square. 
+         A player can advance upward if they land on the base of a palm tree. 
+         A player is set back if they land on the top of a mud slide.
+         </string>
+         <string name="back">Back</string>
+         <string name="languages1">Languages</string>
+         <string name="credits">Credits</string>
+         <string name="num_players">Number Of Players</string>
+         <string name="2players">2 Players</string>
+         <string name="3players">3 Players</string>
+         <string name="4players">4 Players</string>
+         <string name="play">Play</string>
+         <string name="ok">OK</string>
+         <string name="player">Player</string>
+         <string name="turn">Turn</string>
+         <string name="wins">Wins!</string>
+         <string name="resume">Resume</string>
+         <string name="quit">Quit</string>
+         <string name="roll">Roll</string>
+         <string name="back_to_menu">Back To Menu</string>
+         <string name="slide0">You ate food without washing your hands. Now you are sick.</string>
+         <string name="slide1">You drank water without boiling or filtering. Oh no!</string>
+         <string name="slide2">Scooping water with your hand spreads germs. Down, down, down.</string>
+         <string name="slide3">You forgot to wash hands with soap after leaving the toilet. That will slow you down!</string>
+         <string name="slide4">Drinking from a pond means drinking filth. A tummy ache slows you down.</string>
+         <string name="slide5">Doing your business outside spreads filth.  Down the muddy slide!</string>
+         <string name="ladder0">Wash hands with soap. Take a short cut.</string>
+         <string name="ladder1">Filtered water keeps you healthy. Climb up that tree!</string>
+         <string name="ladder2">Washing with soap after using the toilet. A fast way to Grandma’s!</string>
+         <string name="ladder3">Using a toilet is a great idea. Take a short cut.</string>
+         <string name="ladder4">Using a latrine is smart. Up you go!</string>
+         <string name="ladder5">Drinking filtered water tastes good and is good for you. You are almost there!</string>
+         <string name="music">Music</string>
+         <string name="soundeffects">Sound Effects</string>
+         <string name="rolled">Rolled</string>
+    </language>
+
+    <!--FRENCH LANGUAGE-->
+    <language name="Français">
+         <string name="title">Germ Jeu</string>
+         <string name="play_game">Jouer Chutes et échelles</string>
+         <string name="options">Options</string>
+         <string name="how_to_play">Comment jouer</string>
+         <string name="instructions">
+         Les joueurs se relayent pour voir le nombre de cases à déplacer. 
+         Pour terminer le jeu, un joueur doit atterrir exactement sur la dernière case. 
+         Un joueur ne peut pas bouger s'il passe la dernière case. 
+         Un joueur peut avancer vers le haut si elles atterrissent sur la base d'un palmier. 
+         Un joueur est reculé si elle atterrit sur le dessus d'un toboggan de boue.
+         </string>
+         <string name="back">Arrière</string>
+         <string name="languages1">Langues</string>
+         <string name="credits">Crédits</string>
+         <string name="num_players">Nombre de joueurs</string>
+         <string name="2players">2 Joueurs</string>
+         <string name="3players">3 Joueurs</string>
+         <string name="4players">4 Joueurs</string>
+         <string name="play">Jouer</string>
+         <string name="ok">D'accord</string>
+         <string name="player">Joueur</string>
+         <string name="turn">Tour</string>
+         <string name="wins">Gagne!</string>
+         <string name="resume">Reprendre</string>
+         <string name="quit">Quitter</string>
+         <string name="roll">Roulent</string>
+         <string name="back_to_menu">Retour au menu</string>
+         <string name="slide0">Vous avez mangé de la nourriture sans vous laver les mains. Maintenant, vous êtes malade.</string>
+         <string name="slide1">Vous avez bu de l'eau sans bouillir ni filtrer. Oh non!</string>
+         <string name="slide2">Récupérer de l'eau avec votre main répand les germes. Bas, bas, bas.</string>
+         <string name="slide3">Vous avez oublié de vous laver les mains avec du savon après avoir quitté les toilettes. Cela vous ralentira!</string>
+         <string name="slide4">Boire d'un étang signifie boire de la saleté. Un mal de ventre vous ralentit.</string>
+         <string name="slide5">Faire votre entreprise à l'extérieur se répand la saleté. Descendez le toboggan boueux!</string>
+         <string name="ladder0">Se laver les mains avec du savon. Prendre un raccourci.</string>
+         <string name="ladder1">L'eau filtrée vous maintient en bonne santé. Monter cet arbre!</string>
+         <string name="ladder2">Laver avec du savon après avoir utilisé les toilettes. Un moyen rapide pour Grandma's!</string>
+         <string name="ladder3">Utiliser une toilette est une excellente idée. Prendre un raccourci.</string>
+         <string name="ladder4">L'utilisation d'une latrine est intelligente. Up vous allez!</string>
+         <string name="ladder5">Boire de l'eau filtrée goûte bon et est bon pour vous. Tu es presque là!</string>
+         <string name="music">La Musique</string>
+         <string name="soundeffects">Effets Sonores</string>
+         <string name="rolled">Roulé</string>
+    </language>
+
+</languages>
