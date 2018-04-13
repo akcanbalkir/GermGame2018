@@ -4,16 +4,16 @@
 <!--FROM THIS FILE YOU CAN MODIFY THE LANGUAGES PRESENTED IN GAME-->
 
     <!--ENGLISH LANGUAGE-->
-    <language name="English"> 
+    <language name="English">
          <string name="title">Germ Game</string>
          <string name="play_game">Play Chutes and Ladders</string>
          <string name="options">Options</string>
          <string name="how_to_play">How To Play</string>
          <string name="instructions">
-         Players take turns rolling dice to see how many squares to move. 
-         To end the game a player must land exactly on the final square. 
-         A player cannot move if he or she rolls past the final square. 
-         A player can advance upward if they land on the base of a palm tree. 
+         Players take turns rolling dice to see how many squares to move.
+         To end the game a player must land exactly on the final square.
+         A player cannot move if he or she rolls past the final square.
+         A player can advance upward if they land on the base of a palm tree.
          A player is set back if they land on the top of a mud slide.
          </string>
          <string name="back">Back</string>
@@ -50,16 +50,16 @@
     </language>
 
     <!--FRENCH LANGUAGE-->
-    <language name="Français">
+    <language name="Français ">
          <string name="title">Germ Jeu</string>
          <string name="play_game">Jouer Chutes et échelles</string>
          <string name="options">Options</string>
          <string name="how_to_play">Comment jouer</string>
          <string name="instructions">
-         Les joueurs se relayent pour voir le nombre de cases à déplacer. 
-         Pour terminer le jeu, un joueur doit atterrir exactement sur la dernière case. 
-         Un joueur ne peut pas bouger s'il passe la dernière case. 
-         Un joueur peut avancer vers le haut si elles atterrissent sur la base d'un palmier. 
+         Les joueurs se relayent pour voir le nombre de cases à déplacer.
+         Pour terminer le jeu, un joueur doit atterrir exactement sur la dernière case.
+         Un joueur ne peut pas bouger s'il passe la dernière case.
+         Un joueur peut avancer vers le haut si elles atterrissent sur la base d'un palmier.
          Un joueur est reculé si elle atterrit sur le dessus d'un toboggan de boue.
          </string>
          <string name="back">Arrière</string>
