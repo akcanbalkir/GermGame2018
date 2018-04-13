@@ -50,7 +50,7 @@
     </language>
 
     <!--FRENCH LANGUAGE-->
-    <language name="Français ">
+    <language name="Français">
          <string name="title">Germ Jeu</string>
          <string name="play_game">Jouer Chutes et échelles</string>
          <string name="options">Options</string>
